@@ -1,7 +1,7 @@
 👋 Oi, eu sou @Denise-Melo
 - 👀 Estou interessado em back-end com Java e as frameworks do front-end nas horas vagas, principalmente Angular e Vue
-- 🌱 Atualmente estou estudando para a Certificação Java Oracle e iniciarei a faculdade de Analise de Sistemas na prestigiada FIAP
-- 💞️ Estou procurando colaborar em projetos voluntários em programação e assim posso expandir meus conhecimentos
+- 🌱 Atualmente estou estudando para a Certificação Java Oracle e a CTFL (Certified Tester Foundation Level)  e iniciarei a faculdade de Analise de Sistemas na prestigiada FIAP
+
 
 > Meu portifólio:
 
