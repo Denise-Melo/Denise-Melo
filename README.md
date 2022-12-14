@@ -26,4 +26,4 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denise-Melo&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 ##
-  ![Snake animation](https://github.com/Denise-Melo/Denise-Melo/blob/output/github-contribution-grid-snake.svg)
+ 
