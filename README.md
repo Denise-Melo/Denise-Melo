@@ -4,11 +4,11 @@
 - 🌱 Atualmente estou estudando para a Certificação Java Oracle e a CTFL (Certified Tester Foundation Level)  e iniciarei a faculdade de Analise de Sistemas na prestigiada FIAP
 <div>
 
-> Meu portifólio:
+## Meu portifólio:
+ https://denise-melo.github.io/portfolio/
 
-> Meus cursos e certificados:
 
-## Ferramentas e Tecnologias
+## Ferramentas e Tecnologias:
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="80" height="80"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="80" height="80"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="80" height="80" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100" height="100" /> 
            
