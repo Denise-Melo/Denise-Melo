@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Denise-Melo/Denise-Melo/blob/main/imagens/banner.png)](https://github.com/Denise-Melo)
+[![MasterHead](https://github.com/Denise-Melo/Denise-Melo/blob/main/imagens/banner(1).png)](https://github.com/Denise-Melo)
 
 - 👀 Estou focada em back-end com Java e as frameworks do front-end nas horas vagas, principalmente Angular e Vue
 - 🌱 Atualmente estou estudando para a Certificação Java Oracle e a CTFL (Certified Tester Foundation Level)  e iniciarei a faculdade de Analise de Sistemas na prestigiada FIAP
