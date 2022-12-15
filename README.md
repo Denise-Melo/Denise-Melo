@@ -1,5 +1,6 @@
-👋 Oi, eu sou @Denise-Melo
-- 👀 Estou interessado em back-end com Java e as frameworks do front-end nas horas vagas, principalmente Angular e Vue
+[![MasterHead](https://github.com/Denise-Melo/Denise-Melo/blob/main/imagens/banner.png)](https://github.com/Denise-Melo)
+
+- 👀 Estou focada em back-end com Java e as frameworks do front-end nas horas vagas, principalmente Angular e Vue
 - 🌱 Atualmente estou estudando para a Certificação Java Oracle e a CTFL (Certified Tester Foundation Level)  e iniciarei a faculdade de Analise de Sistemas na prestigiada FIAP
 <div>
 
@@ -24,4 +25,5 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denise-Melo&show_icons=true&theme=merko)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denise-Melo&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
+##
+ 
